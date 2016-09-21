@@ -1,0 +1,18 @@
+
+
+body {background: #D1E9E9; margin: 0; padding: 0;} 
+a {color: #D1E9E9;}           
+#container {width: 900px; margin: 0; padding: 0; background: #D1E9E9;}           
+#header {width: 1400px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #D1E9E9; text-align:center;}           
+#Header {font-family: Berlin Sans FB Demi ; font-size: 40px;}
+#sidebar {width: 200px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #D1E9E9;}           
+#sidebar {font-family: Georgia; font-size: 14px}
+#content {width: 700px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #D1E9E9;}           
+#content {width: 700px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #D1E9E9;}    
+#content p {font-family: Monaco; font-size: 16px}       
+#footer {width: 900px; 	height: 70px; 	margin: 0; padding: 0; border: 0; float: left; background: #D1E9E9; clear:both;}                            
+
+h1 {
+	font-family: papyrus;
+	color:#B80446;
+	}
